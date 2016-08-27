@@ -1,0 +1,51 @@
+#top {
+  border: 1px solid black;
+  margin-top: 20px;
+  border-radius: 20px 20px 0px 0px;
+  background-color: #1f4e5f;
+  padding-bottom: 10px;
+}
+
+#bottom {
+  border: 1px solid black;
+  border-radius: 0px 0px 20px 20px;
+  height: 50px;
+  margin-bottom: 20px;
+  background-color: #1f4e5f;
+}
+
+#online {
+  border-radius: 4px;
+  margin: 10px 0px;
+  padding: 10px 10px;
+
+  a {
+    text-decoration: none;
+  }
+}
+
+#offline {
+  border-radius: 4px;
+  margin: 10px 0px;
+  padding: 10px 10px;
+  color: #FFBC42;
+
+  a {
+    text-decoration: none;
+    color: #FFBC42;
+  }
+}
+
+#deleted {
+  border-radius: 4px;
+  margin: 10px 0px;
+  padding: 10px 10px;
+
+  a {
+    text-decoration: none;
+  }
+}
+
+img {
+  border-radius: 4px;
+}
